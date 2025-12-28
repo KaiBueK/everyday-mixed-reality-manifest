@@ -381,15 +381,6 @@ It’s an open invitation:
   I don’t care whether I’m mentioned as the originator.  
   I care that such systems become **real** while I can still use them.
 
-One possible next step:
-
-- An English version of this manifesto.  
-- Publishing it on GitHub as a public document.  
-- Extended with:
-  - technical sketches,  
-  - possible prototype architectures,  
-  - interfaces based on open standards.
-
 
 ---
 
