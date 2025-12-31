@@ -364,6 +364,13 @@ and precisely for that reason radical in everyday life.
    - Suggestions are optional, dismissible and understandable.
    - As much processing as possible happens locally – to strengthen privacy and trust.
 
+3. **Perception over pixels**  
+
+   MX Everyday MR does not chase a “perfect display” – it aims for a *perfectly perceived* image. 
+    
+   - Human vision is focal, selective and context‑driven: only a tiny part of our field of view is truly sharp, the rest is interpreted.
+   - An everyday mixed reality glasses system does not need to render everything at maximum resolution all the time; it needs to create a subjectively coherent, comfortable picture. 
+   - Progress is not defined by raw pixel counts, but by how intelligently the system works with human perception, energy and attention.
 
 ## 7. Open invitation
 
