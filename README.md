@@ -125,6 +125,35 @@ An AI companion (in my case: “Naome”) is context‑aware and embedded into t
   - Always accessible in one step,  
   - never suddenly loud, flashing or disruptive.
 
+### 3.5 Layered architecture – optics, display, compute
+
+Behind all examples in this manifesto is a simple architecture decision:
+
+> **Optics ≠ display ≠ compute.**
+
+- **Optics**  
+  are about my eyes and my health.  
+  They should be handled like normal prescription glasses:  
+  individual, replaceable, available at any optician – and physically placed in front of the display glass.
+
+- **Display**  
+  is a standardized MR panel inside the frame:  
+  fixed geometry, known brightness, contrast and latency characteristics.  
+  It does not run apps, operating systems or AI – it just shows pixels with transparency.
+
+- **Compute / logic**  
+  lives in external devices:
+  - MX device on the table,
+  - smartphone in my pocket,
+  - small dedicated compute unit on my body.
+
+This separation enables:
+
+- long‑lived, “boring” display glasses,
+- fast innovation in compute and AI,
+- and a mental model where the glasses feel like **infrastructure**,  
+  not like yet another fragile, all‑in‑one gadget.
+
 ---
 
 ## 4. Everyday scenes – how MX Everyday MR feels
@@ -371,6 +400,26 @@ and precisely for that reason radical in everyday life.
    - Human vision is focal, selective and context‑driven: only a tiny part of our field of view is truly sharp, the rest is interpreted.
    - An everyday mixed reality glasses system does not need to render everything at maximum resolution all the time; it needs to create a subjectively coherent, comfortable picture. 
    - Progress is not defined by raw pixel counts, but by how intelligently the system works with human perception, energy and attention.
+
+4. **Display as infrastructure**
+
+MX Everyday MR only works when the display is no longer a decision.
+
+- The glasses are not “the computer”, not “the platform”, not “the app store”.
+- They are a **stable, standardized display layer** – more like HDMI than like a smartphone.
+- Three layers stay clearly separated:
+  - **Optics**: my individual correction, replaceable at any optician.
+  - **Display**: a standardized MR panel geometry and interface.
+  - **Compute / logic**: free to change, upgrade, compete and innovate over time.
+
+The goal is that:
+
+- I can buy glasses once and use them for many years.
+- I can change the compute unit (phone, MX device, pocket computer) without changing my glasses.
+- People who wear glasses are not a special case – correction happens **in front of** the display, not baked into it.
+
+Everyday mixed reality begins where the display is as self‑evident as Wi‑Fi or USB‑C:  
+it’s just there, and the real innovation happens around it, not inside it.
 
 ## 7. Open invitation
 
