@@ -374,6 +374,24 @@ This manifesto is deliberately aiming at something else:
 This vision is deliberately **unspectacular in a marketing sense** –  
 and precisely for that reason radical in everyday life.
 
+### 5.1 Boundaries of this vision
+
+This vision also becomes clearer by what it deliberately is **not**:
+
+- **Not socially isolating**  
+  - I do not disappear into a separate headset mode.  
+  - I stay present to people, spaces and everyday life around me.
+
+- **Not a conscious “now I’m in VR” ritual**  
+  - Everyday MR lives in my normal glasses.  
+  - It can fade in and out, instead of demanding a separate bunker‑like mode I have to “enter”.
+
+- **Not justified by wow‑moments**  
+  - Its value is not in spectacular demos or holograms.
+  - Its value shows up in quiet, repeated everyday use – hours of work, small helpers, less friction.
+
+These edges are not about rejecting other MR uses –  
+they simply mark the boundaries of this specific, everyday‑first vision.
 
 ## 6. Design principles
 
@@ -384,6 +402,9 @@ and precisely for that reason radical in everyday life.
    - People, animals and real‑world events always have priority over virtual content.
    - The system doesn’t rudely interrupt me; it quietly fits itself in.
    - Content steps back when someone enters the room, speaks to me, or I deliberately look away.
+  
+   Everyday mixed reality must not require that reality passes through a camera first.  
+   The glasses should still work – as glasses – even when the software goes silent for a moment.
 
 2. **Calm, respectful AI**
 
