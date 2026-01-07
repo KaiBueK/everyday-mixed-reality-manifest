@@ -477,6 +477,6 @@ MX Everyday MR describes a system made of:
 
 ---
 
-** Thank you**
+**Thank you**
 > To everyone who starred, forked or shared this: thank you.  
 > You’re helping to bring this idea into the real world.
