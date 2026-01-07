@@ -474,3 +474,9 @@ MX Everyday MR describes a system made of:
 
 > No full immersion, but a deliberate, calm, everyday mixed reality  
 > where I never lose sight of the real world.
+
+---
+
+** Thank you**
+> To everyone who starred, forked or shared this: thank you.  
+> You’re helping to bring this idea into the real world.
