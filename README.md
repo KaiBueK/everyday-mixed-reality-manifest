@@ -403,23 +403,23 @@ and precisely for that reason radical in everyday life.
 
 4. **Display as infrastructure**
 
-MX Everyday MR only works when the display is no longer a decision.
+   MX Everyday MR only works when the display is no longer a decision.
 
-- The glasses are not “the computer”, not “the platform”, not “the app store”.
-- They are a **stable, standardized display layer** – more like HDMI than like a smartphone.
-- Three layers stay clearly separated:
-  - **Optics**: my individual correction, replaceable at any optician.
-  - **Display**: a standardized MR panel geometry and interface.
-  - **Compute / logic**: free to change, upgrade, compete and innovate over time.
+   - The glasses are not “the computer”, not “the platform”, not “the app store”.
+   - They are a **stable, standardized display layer** – more like HDMI than like a smartphone.
+   - Three layers stay clearly separated:
+     - **Optics**: my individual correction, replaceable at any optician.
+     - **Display**: a standardized MR panel geometry and interface.
+     - **Compute / logic**: free to change, upgrade, compete and innovate over time.
 
-The goal is that:
+   The goal is that:
 
-- I can buy glasses once and use them for many years.
-- I can change the compute unit (phone, MX device, pocket computer) without changing my glasses.
-- People who wear glasses are not a special case – correction happens **in front of** the display, not baked into it.
+   - I can buy glasses once and use them for many years.
+   - I can change the compute unit (phone, MX device, pocket computer) without changing my glasses.
+   - People who wear glasses are not a special case – correction happens **in front of** the display, not baked into it.
 
-Everyday mixed reality begins where the display is as self‑evident as Wi‑Fi or USB‑C:  
-it’s just there, and the real innovation happens around it, not inside it.
+   Everyday mixed reality begins where the display is as self‑evident as Wi‑Fi or USB‑C:  
+   it’s just there, and the real innovation happens around it, not inside it.
 
 ## 7. Open invitation
 
